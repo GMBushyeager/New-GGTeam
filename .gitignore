@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# Env and secrets — never commit
+.env
+.env.local
+.env.*.local
+*.pem
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Build output
+dist/
+build/
+coverage/
+*.tsbuildinfo
+
+# Expo / React Native
+.expo/
+.expo-shared/
+web-build/
+ios/
+android/
+*.jks
+*.keystore
+
+# Claude Code personal settings
+.claude/settings.local.json
+CLAUDE.local.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.log

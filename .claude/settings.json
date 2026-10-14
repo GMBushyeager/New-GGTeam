@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(./.env)",
+      "Read(./.env.local)",
+      "Read(./.env.*.local)",
+      "Read(./**/*.pem)",
+      "Read(./**/*.p8)",
+      "Read(./**/*.key)",
+      "mcp__MongoDB_Atlas__insert-many",
+      "mcp__MongoDB_Atlas__update-many",
+      "mcp__MongoDB_Atlas__delete-many",
+      "mcp__MongoDB_Atlas__drop-collection",
+      "mcp__MongoDB_Atlas__drop-database",
+      "mcp__MongoDB_Atlas__create-index",
+      "mcp__MongoDB_Atlas__rename-collection"
+    ],
+    "allow": [
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(npm test:*)",
+      "Bash(npm run lint:*)",
+      "Bash(npm run typecheck:*)"
+    ]
+  }
+}
