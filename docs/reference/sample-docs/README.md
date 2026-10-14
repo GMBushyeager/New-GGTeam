@@ -82,7 +82,8 @@ These are facts from the data. Items that need a decision are marked **(Gregg)**
    all 23 `program` exercises and all 13 `test` entries, so the assessment type
    doesn't decide which exercises are stored. 865 documents, including recent
    ones, have no `program` at all. 433 Adult documents have an older 11-exercise
-   set with 4 tests.
+   set with 4 tests. See `../exercise-matrix.md` for which exercises belong to
+   each type.
 9. **Fields that look unused or duplicated:** `formsFilled` is always 0.
    `ptAgreement` is always `""`, but `isPtAgreementFilled` is true in 4,740
    documents. `toAssessor` and `toTheAssessor` disagree in 949 documents.

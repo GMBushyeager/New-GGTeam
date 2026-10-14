@@ -3,6 +3,7 @@
 - `current-screens/`: screenshots of the current Resourcifi app, named by deck slide
 - `sample-docs/`: **redacted** `prod.assessments` documents
 - `vendor-scopes/`: Resourcifi and Simform scope documents
+- `exercise-matrix.md`: which fitness exercises and tests go with each assessment type
 
 ## Redaction rules for sample-docs
 
