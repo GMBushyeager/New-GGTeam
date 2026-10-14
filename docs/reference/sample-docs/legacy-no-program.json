@@ -1,0 +1,336 @@
+{
+  "_id": {
+    "$oid": "00000000000000000000a06a"
+  },
+  "mboClientId": "100000001",
+  "clientPk": "GG0000000000000020",
+  "trainerPk": "GGT0000000000000002",
+  "mboSiteId": "1000001",
+  "mboTrainerId": "100000002",
+  "mboTrainerName": "Sample Trainer",
+  "assessmentCount": 2,
+  "appVersion": "1.5",
+  "deviceInfo": "iPhone 15",
+  "osInfo": "iOS 18.0",
+  "assessmentType": "Senior",
+  "formsFilled": 0,
+  "mindBodyData": {
+    "FirstName": "Sample",
+    "LastName": "Client",
+    "Email": "client@example.com",
+    "MobilePhone": "5555550100",
+    "AddressLine1": "",
+    "City": "Example City",
+    "State": "NJ",
+    "PostalCode": "00000",
+    "BirthDate": "01-01-1980",
+    "Gender": "Female",
+    "EmergencyContactInfoName": "Sample Contact",
+    "EmergencyContactInfoPhone": "5555550101",
+    "EmergencyContactInfoRelationship": "Spouse",
+    "SendAccountEmails": true,
+    "SendScheduleEmails": true,
+    "SendPromotionalEmails": true,
+    "ReferredBy": "",
+    "Country": "",
+    "clientType": ""
+  },
+  "isMindBodyDataFilled": true,
+  "parq": {
+    "medicalHistory": {
+      "heart": [
+        "None"
+      ],
+      "heartOther": "",
+      "paceMaker": [
+        "None"
+      ],
+      "paceMakerOther": "",
+      "bp": [
+        "None"
+      ],
+      "bpOther": "",
+      "lastBp": "",
+      "chestPain": [
+        "None"
+      ],
+      "chestPainOther": "",
+      "metobolic": [
+        "Other"
+      ],
+      "metobolicOther": "[redacted]",
+      "pulmonary": [
+        "Other"
+      ],
+      "pulmonaryOther": "[redacted]",
+      "dizziness": [
+        "None"
+      ],
+      "dizzinessOther": "",
+      "cholesterol": [
+        "Other"
+      ],
+      "cholesterolOther": "[redacted]",
+      "overweight": false,
+      "pregnant": false,
+      "dueDate": "",
+      "havePhysicalRecently": true,
+      "physicalDate": "01-01-2026",
+      "physical": [
+        "None"
+      ],
+      "physicalOther": "",
+      "other": "",
+      "medications": [
+        "None"
+      ],
+      "medicationsOther": ""
+    },
+    "ortho": {
+      "neck": [
+        "None"
+      ],
+      "neckOther": "",
+      "leftShoulder": [
+        "Other"
+      ],
+      "leftShoulderOther": "[redacted]",
+      "rightShoulder": [
+        "None"
+      ],
+      "rightShoulderOther": "",
+      "leftElbow": [
+        "None"
+      ],
+      "leftElbowOther": "",
+      "rightElbow": [
+        "None"
+      ],
+      "rightElbowOther": "",
+      "leftWrist": [
+        "Other"
+      ],
+      "leftWristOther": "[redacted]",
+      "rightWrist": [
+        "Other"
+      ],
+      "rightWristOther": "[redacted]",
+      "leftHand": [
+        "Other"
+      ],
+      "leftHandOther": "",
+      "rightHand": [
+        "Other"
+      ],
+      "rightHandOther": "",
+      "back": [
+        "None"
+      ],
+      "backOther": "",
+      "hernia": [
+        "Other"
+      ],
+      "herniaOther": "",
+      "leftHip": [
+        "None"
+      ],
+      "leftHipOther": "",
+      "rightHip": [
+        "None"
+      ],
+      "rightHipOther": "",
+      "leftKnee": [
+        "None"
+      ],
+      "leftKneeOther": "",
+      "rightKnee": [
+        "None"
+      ],
+      "rightKneeOther": "",
+      "leftAnkle": [
+        "None"
+      ],
+      "leftAnkleOther": "",
+      "rightAnkle": [
+        "None"
+      ],
+      "rightAnkleOther": "",
+      "leftFoot": [
+        "Other"
+      ],
+      "leftFootOther": "[redacted]",
+      "rightFoot": [
+        "None"
+      ],
+      "rightFootOther": ""
+    },
+    "goals": {
+      "primaryGoals": [
+        "Weight Loss",
+        "Flexibility",
+        "Stability"
+      ],
+      "primaryGoalsOther": "",
+      "secondaryGoals": [],
+      "secondaryGoalsOther": "",
+      "goalWeight": 170,
+      "trainDay": [
+        "Monday",
+        "Tuesday"
+      ],
+      "trainStarTime": "07 :00 AM",
+      "trainEndTime": "",
+      "idealTrainTime": ""
+    },
+    "familyHistory": {
+      "heartAttack": false,
+      "heartSurgery": false,
+      "highCholesterol": true,
+      "stroke": false,
+      "cancer": false,
+      "obesity": false
+    },
+    "lifestyle": {
+      "breakfast": [
+        "Coffee / Tea",
+        "Yogurt",
+        "Fruit / Smoothie"
+      ],
+      "breakfastOther": "",
+      "lunch": [
+        "Sandwich / Wrap",
+        "Other"
+      ],
+      "lunchOther": "[redacted]",
+      "dinner": [
+        "Other"
+      ],
+      "dinnerOther": "[redacted]",
+      "waterInOz": 64,
+      "snacks": [
+        "Candy / Sweets"
+      ],
+      "snacksOther": "",
+      "exercise": [
+        "5+"
+      ],
+      "exerciseProgram": [],
+      "exerciseProgramOther": "",
+      "alcohol": [
+        "1 – 2"
+      ],
+      "smoker": [
+        "None"
+      ],
+      "vaper": [
+        "None"
+      ],
+      "smokeYears": 0,
+      "smokeQuitDate": "",
+      "stress": [],
+      "sleepHours": [
+        "Less than 6 hours"
+      ],
+      "feelRestedAfterSleep": false
+    }
+  },
+  "isParqFilled": true,
+  "ptAgreement": "",
+  "isPtAgreementFilled": true,
+  "bodyAssessment": {
+    "ageInYears": 45,
+    "bicepInInches": 13,
+    "bodyAge": "45",
+    "bodyFatPercentage": "25.0",
+    "bodyMassIndex": "26.0",
+    "calfInInches": 15,
+    "chestInInches": 40,
+    "height": "5'10\"",
+    "muscleMassPercentage": "32.0",
+    "thighInInches": 22,
+    "visceralFat": 8,
+    "waistInInches": 36,
+    "weightInLBS": "180.0"
+  },
+  "isBodyAssessmentFilled": true,
+  "fitnessAssessment": {
+    "bandCompany": "Power System Handle",
+    "restingHeartRate": 70,
+    "posture": [],
+    "test": {
+      "stepTest": {
+        "reps": 23,
+        "timing": "15",
+        "observation": []
+      },
+      "dominantSeatedArmCurl": {
+        "reps": 0,
+        "timing": "",
+        "observation": []
+      },
+      "elevatedPushUp": {
+        "reps": 0,
+        "timing": "",
+        "observation": []
+      },
+      "chairSitToStand": {
+        "reps": 0,
+        "timing": "",
+        "observation": []
+      }
+    }
+  },
+  "isFitnessAssessmentFilled": true,
+  "isAssessmentSummaryFilled": true,
+  "isFinalAssessmentFilled": true,
+  "finishAssessmentPromptOne": "",
+  "finishAssessmentPromptTwo": "",
+  "finishAssessmentPromptThree": "",
+  "toAssessor": false,
+  "toTheAssessor": false,
+  "adaptiveReport": {
+    "formOne": {
+      "mentalEmotionalAttributes": [],
+      "mentalEmotionalAttributesOther": "",
+      "behavioralTriggers": [],
+      "behavioralTriggersOther": "",
+      "challengingBehavior": "",
+      "moviesAndTelevision": [],
+      "moviesAndTelevisionOther": "",
+      "music": [],
+      "musicOther": "",
+      "sports": [],
+      "sportsOther": "",
+      "hobbies": [],
+      "hobbiesOther": "",
+      "videoGames": [],
+      "videoGamesOther": "",
+      "utilizeReinforcers": false,
+      "howToImplementReinforcers": "",
+      "nonVerbalCues": ""
+    },
+    "formTwo": {
+      "clientMood": [],
+      "clientMoodOther": "",
+      "anxietyProvokingBehavior": [],
+      "anxietyProvokingBehaviorOther": "",
+      "outburstBehavior": [],
+      "outburstBehaviorOther": "",
+      "communicationStyle": [],
+      "isCareGiverRequired": false,
+      "careGiverName": "",
+      "careGiverEmergencyContact": "",
+      "clientCommunicationMode": "",
+      "careGiverInvolvement": [],
+      "careGiverInvolvementOther": ""
+    }
+  },
+  "isDataSyncedToSnowflake": true,
+  "createdAt": {
+    "$date": "2026-01-01T12:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-01T12:00:00.000Z"
+  },
+  "__v": 0
+}
